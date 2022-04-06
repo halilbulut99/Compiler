@@ -1,0 +1,6 @@
+A = 1;
+zoom(A == 1){
+int A = 5;
+printf(A);
+};
+
